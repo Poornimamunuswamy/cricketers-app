@@ -23,6 +23,7 @@ AntD, ReactJS, Bootstrap.
 
 ```shell
 git clone https://github.com/Poornimamunuswamy/cricketers-app
+git pull
 cd project-path
 npm install
 
