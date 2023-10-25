@@ -5,7 +5,6 @@ import { useLocation } from "react-router-dom";
 import Card from 'react-bootstrap/Card';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
 const CricketerDetails = () => {
     const { state } = useLocation();
     {/*Extract player details from state object */ }
